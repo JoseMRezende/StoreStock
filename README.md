@@ -1,7 +1,7 @@
 # StoreStock
 StoreStock
 <br />
-## overview:<br />
+## overview<br />
 <br /> 
 <br />
 <br />
