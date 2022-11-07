@@ -1,6 +1,6 @@
 # StoreStock
 StoreStock
 <br />
-### overview:
+### overview:<br />
 <br />
-# Still in production....
+## Still in production....
